@@ -1,4 +1,4 @@
-Program: Student Information Using Inheritance
+// Program: Student Information Using Inheritance
 #include <iostream>
 #include <string>
 using namespace std;
@@ -66,8 +66,8 @@ int main()
 }
 
 
-Program: Employee Info with Multilevel & Hierarchical Inheritance
-Program Code :
+//Program: Employee Info with Multilevel & Hierarchical Inheritance
+ 
 #include <iostream>
 #include <string>
 using namespace std;
