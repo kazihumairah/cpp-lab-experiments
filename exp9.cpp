@@ -1,4 +1,4 @@
-Program: Abstract Class Example
+// Program: Abstract Class Example
 #include <iostream>
 #include <string>
 using namespace std;
